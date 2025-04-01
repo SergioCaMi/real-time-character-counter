@@ -1,7 +1,5 @@
 // Buena suerte ! :)
 const characterMaxLength = document.getElementById("textarea").getAttribute("maxlength");
-
-
 const txtArea = document.getElementById("textarea");
 
 txtArea.addEventListener("input", e=>{
